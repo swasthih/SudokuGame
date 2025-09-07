@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SudokuGame</string>
+    <string name="difficulty_hard">difficulty_hard</string>
+    <string name="difficulty_medium">difficulty_medium</string>
+    <string name="difficulty_easy">difficulty_easy</string>
+    <string name="select_difficulty">select_difficulty</string>
+</resources>
